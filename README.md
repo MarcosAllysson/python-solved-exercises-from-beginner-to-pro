@@ -1,24 +1,24 @@
-# Python - Do Básico ao Avançado
-Curso completo de python3, que abordou diversos temas sobre python:
+# Python - From Basic to Advanced
 
-- Inicial da linguagem
-- Configuração de IDE
-- Conceitos básicos
-- Operadores de comparação
-- Declarações em Python
-- Métodos e funções
-- Compreensão em lista e dicionários
-- Projetos (jogo da velha, blackjack e lista de vários programas)
-- POO (Programação orientado a objetos em Python)
-- Lidando com erros e exceções
-- Módulos e pacotes
-- Funções embutidas com Python
-- Decoradores
-- Geradores
-- Módulos avançados
-- Objetos e estruturas de dados avançados em Python
+Completed Python3 course, which covered several topics about Python:
 
+- Introduction to the language
+- IDE configuration
+- Basic concepts
+- Comparison operators
+- Declarations in Python
+- Methods and functions
+- List comprehension and dictionaries
+- Projects (tic-tac-toe, blackjack and list of multiple programs)
+- OOP (Object-Oriented Programming in Python)
+- Handling errors and exceptions
+- Modules and packages
+- Built-in functions with Python
+- Decorators
+- Generators
+- Advanced modules
+- Advanced objects and data structures in Python
 
-Este repositório contém diversos programas construídos em python
-Desde o básico até conceitos mais avançados.
-Serviu de grande aprendizado e conhecimento maior sobre o potencial da linguagem.
+This repository contains several programs built in Python
+From the basics to more advanced concepts.
+It served as a great learning experience and greater knowledge about the potential of the language.
